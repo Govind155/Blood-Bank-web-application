@@ -10,7 +10,7 @@ Website link: http://blood-bank-01.great-site.net/index.php <br/>
 ## Screenshot
 
 ### Homepage 
-![scrrenshotBB](https://user-images.githubusercontent.com/73738015/125279539-aff67780-e331-11eb-92f4-611a571ae732.JPG)
+![scrrenshot](https://user-images.githubusercontent.com/73738015/125281746-39a74480-e334-11eb-929e-101556a25bde.JPG)
 
 
 
